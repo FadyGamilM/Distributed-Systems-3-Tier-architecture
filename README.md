@@ -1,4 +1,16 @@
 # Distributed-Systems-Assignment_1
->> TO Run The Application
-1- Open Terminal Window (For Sensor Program)
->>>> 1.1- 
+---
+## For Question **iv**:
+
+**1- Open Terminal Window (For Sensor Program)**
+```
+> write the following command `cd out/production/proj3`
+> write the following command `java com.socketprog.Sensor`
+```
+
+**2- Open Another Terminal Window (For Server Program)**
+```
+> write the following command `cd out/production/proj3`
+> write the following command `java com.socketprog.Server_Threaded`
+```
+---
