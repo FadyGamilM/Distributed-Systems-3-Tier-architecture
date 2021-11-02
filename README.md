@@ -1,8 +1,9 @@
 # Distributed-Systems-Assignment_1
 
 ---
-- Open the folder.
-- Open vscode or intellji IDE on the folder.
+- Clone the repository.
+- open your IDE into the folder that you cloned the repo in.
+- perform the following steps.
 ---
 
 ---
