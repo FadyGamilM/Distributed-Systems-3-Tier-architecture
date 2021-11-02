@@ -1,6 +1,11 @@
 # Distributed-Systems-Assignment_1
 
 ---
+- Open the folder.
+- Open vscode or intellji IDE on the folder.
+---
+
+---
 ## For Question **ii**:
 
 **1- Open Terminal Window (For Sensor Program)**
